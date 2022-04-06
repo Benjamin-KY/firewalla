@@ -45,7 +45,7 @@
     "minimist": "1.2.3",
     "mkdirp": "^0.5.2",
     "mobile-detect": "1.4.0",
-    "moment": "^2.15.0",
+    "moment": "^2.29.2",
     "morgan": "^1.9.1",
     "mustache-express": "^1.2.5",
     "network": "0.3.2",
