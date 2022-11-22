@@ -18,7 +18,7 @@
     "node-pty": "^0.9.0"
   },
   "dependencies": {
-    "bee-queue": "^1.2.2",
+    "bee-queue": "^1.4.2",
     "bluebird": "^3.5.5",
     "body-parser": "1.18.2",
     "botbuilder": "^4.0.6",
