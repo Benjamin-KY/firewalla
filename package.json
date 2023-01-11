@@ -21,7 +21,7 @@
     "bee-queue": "^1.2.2",
     "bluebird": "^3.5.5",
     "body-parser": "1.18.2",
-    "botbuilder": "^4.0.6",
+    "botbuilder": "^4.17.1",
     "camel-case": "^3.0.0",
     "child-process-promise": "*",
     "commander": "^2.9.0",
