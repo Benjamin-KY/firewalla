@@ -8,3 +8,5 @@ patch:
         patched: '2023-03-06T00:29:43.020Z'
     - request-promise > request-promise-core > lodash:
         patched: '2023-03-06T23:36:23.169Z'
+    - request-promise > request-promise-core > lodash:
+        patched: '2023-03-08T04:07:19.986Z'
